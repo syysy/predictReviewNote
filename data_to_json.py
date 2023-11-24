@@ -1,5 +1,5 @@
 file_path = "data/goodreads_reviews_dedup.json"
-dest_path = "data/test.json"
+dest_path = "data/reviews.json"
 lines_number = 90000
 
 with open(file_path) as input_file:
